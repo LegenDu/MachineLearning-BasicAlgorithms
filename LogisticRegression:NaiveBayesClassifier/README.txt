@@ -39,3 +39,12 @@
     d. Plots will be show in pop-up windows
     * There will be three plots for each vocabulary size, total 33 plots
 
+
+5. To run code for Logistic Regression vs Regularized Logistic Regression (Breast Cancer, Spambase, Diabetes Datasets):
+	a. Open the terminal
+	b. Switch directories to this folder
+	c. Run the command --> 
+        Breast Cancer: python3 RegularizedLogisticRegression.py BreastCancer
+        Spambase: python3 RegularizedLogisticRegression.py Spambase
+        Diabetes: python3 RegularizedLogisticRegression.py Diabetes
+    d. Results will be printed to the console

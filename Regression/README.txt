@@ -24,11 +24,3 @@
         For power = 9: python3 RidgeRegression.py 9
     d. Results will be printed to the console, plotted graphs will show in seperate pop-up windows.
 
-4. To run code for Logistic Regression vs Regularized Logistic Regression (Breast Cancer, Spambase, Diabetes Datasets):
-	a. Open the terminal
-	b. Switch directories to this folder
-	c. Run the command --> 
-        Breast Cancer: python3 RegularizedLogisticRegression.py BreastCancer
-        Spambase: python3 RegularizedLogisticRegression.py Spambase
-        Diabetes: python3 RegularizedLogisticRegression.py Diabetes
-    d. Results will be printed to the console
