@@ -6,4 +6,4 @@ Implemented basic algorithms using Python.
   4. Perceptron (Dual Perceptron/ Kernelized Perceptron)
   5. Determining Hyperparameters (Based on accuracy and AUC)
   6. MulticlassSVM
-  7. Clustering
+  7. Clustering (K-Means/GMM)
